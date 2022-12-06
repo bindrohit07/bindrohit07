@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bindrohit07&label=Profile%20views&color=0e75b6&style=flat" alt="bindrohit07" /> </p>
 
 - 🔭 I’m currently working on **Web Projects**
-- 🌱 I’m currently learning **react.js**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://bindrohit07.github.io/rohitkumarbind/](https://bindrohit07.github.io/rohitkumarbind/)
 

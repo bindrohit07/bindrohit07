@@ -5,15 +5,15 @@
 - 🔭 I’m currently working on NodeJs
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Frontend
-- 📫 How to reach me: saviomartin2020@gmail.com
-- 😄 My website: https://savio.works/
-- ⚡ Fun fact: I'm comming to teen
+- 📫 How to reach me: rohitbind9@gmail.com
+- 😄 My website: https://bindrohit07.github.io/rohitkumarbind/
+- ⚡ Fun fact: I'm cool
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
 
-- <a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/instagram%20@teen_developer-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+- <a href="https://www.instagram.com/me_bindrohit07/"><img src="https://img.shields.io/badge/instagram%20@teen_developer-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 - <a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/facebook%20@saviomartin.1694-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-- <a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/twitter%20@saviomartin3-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+- <a href="https://www.instagram.com/rudra_rohit999/"><img src="https://img.shields.io/badge/twitter%20@saviomartin3-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 - <a href="https://savio.works/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20savio.works-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">

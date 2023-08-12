@@ -9,7 +9,7 @@
 - 😄 My website: https://bindrohit07.github.io/rohitkumarbind/
 - ⚡ Fun fact: I'm cool
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
+<img align="center" src="https://github.com/bindrohit07"/>
 
 - <a href="https://www.instagram.com/me_bindrohit07/"><img src="https://img.shields.io/badge/instagram%20@me_bindrohit07-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 - <a href="https://www.facebook.com/people/Rohit-Kumar-Bind/pfbid0MRhFPR1XjyyfhC8V8h7KHAEbtou3aaxHaUF7AHGjB5Rq3xP4AwL72nYyC8HfC4qnl/"><img src="https://img.shields.io/badge/facebook%20@Rohit-Kumar-Bind-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>

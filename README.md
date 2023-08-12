@@ -8,7 +8,7 @@
 - 💬 Ask me anything about Frontend
 - 📫 How to reach me: rohitbind9@gmail.com
 - 😄 My website: https://bindrohit07.github.io/rohitkumarbind/
-- ⚡ Fun fact: I'm cool
+- ⚡ Fun fact: I'm Iron Man
 
 <h3 align="left">Connect with me:</h3>
 

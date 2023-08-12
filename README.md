@@ -10,6 +10,12 @@
 - 📫 How to reach me **rohitbind9@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PGfmf0L29w0G3N8DVZd4u1uQNn2vjJjk/view?usp=drivesdk](https://drive.google.com/file/d/1PGfmf0L29w0G3N8DVZd4u1uQNn2vjJjk/view?usp=drivesdk)
+- 🔭 I’m currently working on NodeJs
+- 🌱 I’m currently learning Backend
+- 💬 Ask me anything about Frontend
+- 📫 How to reach me: rohitbind9@gmail.com
+- 😄 My website: https://bindrohit07.github.io/rohitkumarbind/
+- ⚡ Fun fact: I'm cool
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

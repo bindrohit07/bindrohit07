@@ -51,3 +51,6 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=saviomartin" id="counter">
 </p>
 ⭐️ From [saviomartin](https://github.com/saviomartin)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bindrohit07&show_icons=true&locale=en&layout=compact" alt="bindrohit07" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bindrohit07&show_icons=true&locale=en" alt="bindrohit07" /></p>
